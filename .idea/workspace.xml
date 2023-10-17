@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17cbb780-edad-426c-aa3f-3958f6538d68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/min_max_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +32,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Gulnar/Desktop/KET/ProqTeminati/loops_exercises",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "onboarding.tips.debug.path": "C:/Users/Gulnar/Desktop/KET/ProqTeminati/array_tasks/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gulnar/Desktop/KET/ProqTeminati/loops_exercises&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Gulnar/Desktop/KET/ProqTeminati/array_tasks/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.isPalindrome">
+}</component>
+  <component name="RunManager" selected="Application.min_max_array">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="array_tasks" />
@@ -57,6 +57,13 @@
     </configuration>
     <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="isPalindrome" />
+      <module name="array_tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="min_max_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="min_max_array" />
       <module name="array_tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,6 +85,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.min_max_array" />
         <item itemvalue="Application.isPalindrome" />
         <item itemvalue="Application.sum_of_prime_numbers" />
         <item itemvalue="Application.odd_elements" />
@@ -94,7 +102,8 @@
       <option name="presentableId" value="Default" />
       <updated>1697532098874</updated>
       <workItem from="1697532099903" duration="2153000" />
-      <workItem from="1697544662619" duration="4127000" />
+      <workItem from="1697544662619" duration="4131000" />
+      <workItem from="1697554064722" duration="341000" />
     </task>
     <servers />
   </component>
