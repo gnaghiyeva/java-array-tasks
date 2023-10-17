@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17cbb780-edad-426c-aa3f-3958f6538d68" name="Changes" comment="" />
+    <list default="true" id="17cbb780-edad-426c-aa3f-3958f6538d68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/isPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +47,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.sum_of_prime_numbers">
+  <component name="RunManager" selected="Application.isPalindrome">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="array_tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isPalindrome" />
       <module name="array_tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isPalindrome" />
         <item itemvalue="Application.sum_of_prime_numbers" />
         <item itemvalue="Application.odd_elements" />
         <item itemvalue="Application.Main" />
@@ -83,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1697532098874</updated>
       <workItem from="1697532099903" duration="2153000" />
-      <workItem from="1697544662619" duration="2522000" />
+      <workItem from="1697544662619" duration="4127000" />
     </task>
     <servers />
   </component>
