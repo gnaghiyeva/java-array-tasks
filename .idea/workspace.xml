@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17cbb780-edad-426c-aa3f-3958f6538d68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/count_plus_minus_zero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mini_max_sum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.count_plus_minus_zero">
+  <component name="RunManager" selected="Application.mini_max_sum">
     <configuration name="array_slide_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array_slide_2" />
       <module name="array_tasks" />
@@ -62,15 +62,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="isPalindrome" />
+    <configuration name="min_max_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="min_max_array" />
       <module name="array_tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="min_max_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="min_max_array" />
+    <configuration name="mini_max_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mini_max_sum" />
       <module name="array_tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mini_max_sum" />
         <item itemvalue="Application.count_plus_minus_zero" />
         <item itemvalue="Application.sum_of_array_elements" />
         <item itemvalue="Application.array_slide_2" />
         <item itemvalue="Application.min_max_array" />
-        <item itemvalue="Application.isPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +106,7 @@
       <workItem from="1697554064722" duration="408000" />
       <workItem from="1697610320151" duration="5193000" />
       <workItem from="1698160522023" duration="1241000" />
-      <workItem from="1698251199005" duration="1585000" />
+      <workItem from="1698251199005" duration="3151000" />
     </task>
     <servers />
   </component>
