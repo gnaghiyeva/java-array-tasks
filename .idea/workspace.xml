@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17cbb780-edad-426c-aa3f-3958f6538d68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/mini_max_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/product_of_divisors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staircase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,24 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Gulnar/Desktop/KET/ProqTeminati/array_tasks&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Gulnar/Desktop/KET/ProqTeminati/array_tasks/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Gulnar/Desktop/KET/ProqTeminati/array_tasks",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/Gulnar/Desktop/KET/ProqTeminati/array_tasks/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.mini_max_sum">
-    <configuration name="array_slide_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array_slide_2" />
+}]]></component>
+  <component name="RunManager" selected="Application.product_of_divisors">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Person" />
       <module name="array_tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,13 +64,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="min_max_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="min_max_array" />
-      <module name="array_tasks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="mini_max_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mini_max_sum" />
       <module name="array_tasks" />
@@ -76,8 +71,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sum_of_array_elements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sum_of_array_elements" />
+    <configuration name="product_of_divisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="product_of_divisors" />
+      <module name="array_tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="staircase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="staircase" />
       <module name="array_tasks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.product_of_divisors" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.staircase" />
         <item itemvalue="Application.mini_max_sum" />
         <item itemvalue="Application.count_plus_minus_zero" />
-        <item itemvalue="Application.sum_of_array_elements" />
-        <item itemvalue="Application.array_slide_2" />
-        <item itemvalue="Application.min_max_array" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +108,10 @@
       <workItem from="1697554064722" duration="408000" />
       <workItem from="1697610320151" duration="5193000" />
       <workItem from="1698160522023" duration="1241000" />
-      <workItem from="1698251199005" duration="3151000" />
+      <workItem from="1698251199005" duration="4619000" />
+      <workItem from="1698305774033" duration="12000" />
+      <workItem from="1698305942244" duration="17000" />
+      <workItem from="1698309841287" duration="323000" />
     </task>
     <servers />
   </component>
